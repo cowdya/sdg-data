@@ -36,3 +36,5 @@ if __name__ == "__main__":
     filepath = os.path.dirname(os.path.realpath(__file__))
     os.chdir(filepath)
     reset_csvs()
+
+    
